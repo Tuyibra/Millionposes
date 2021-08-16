@@ -9,4 +9,4 @@ xamp server is recommende.
 > Admin
  * you can access admin's options throup signing up using above provided username and password
  ## NB:Generally, this program starts from **"Millionposes_Project_Prototype/Admin/user/newhome.php"** path otherwise it may not work as intended.
- 
+ https://github.com/Tuyibra/Millionposes_Project_Prototype/blob/d24fc84323b1cd802ec24da5716008be131e605e/Admin/user/newhome.php
