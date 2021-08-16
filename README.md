@@ -1,5 +1,5 @@
 # Guidline of how to user this system
-### you must have created database called **"mposes"** and import tables that are in this folder (https://github.com/Tuyibra/Millionposes_Project_Prototype/tree/main/database/mposes).
+### you must have created database called **"mposes"** and import tables that are in this folder (https://github.com/Tuyibra/Millionposes_Project_Prototype/tree/main/database/mposes)
 xamp server is recommende.
 ## running steps
 > User page
@@ -15,4 +15,4 @@ xamp server is recommende.
 
 
 click here to get all directory cantaining all files
-https://github.com/Tuyibra/Millionposes_Project_Prototype
+(https://github.com/Tuyibra/Millionposes_Project_Prototype)
