@@ -1,5 +1,5 @@
 # Guidline of how to user this system
-### you must have created database called **"mposes"** and import tables that is in folder **"Millionposes_Project_Prototype/database/mposes/"** path.
+### you must have created database called **"mposes"** and import tables that are in folder **"Millionposes_Project_Prototype/database/mposes/"** path.
 ## running steps
 > User page
  * starts from  **"Millionposes_Project_Prototype/Admin/user/newhome.php"** path.
