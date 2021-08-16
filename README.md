@@ -7,4 +7,4 @@
  * to login as user first creat an account.
 > Admin
  * you can access admin's options throup signing up using above provided username and password
- ## NB:Generally this program starts from **Millionposes_Project_Prototype/Admin/user/newhome.php**  atherwise it may not work as intended.
+ ## NB:Generally, this program starts from **"Millionposes_Project_Prototype/Admin/user/newhome.php"**  otherwise it may not work as intended.
