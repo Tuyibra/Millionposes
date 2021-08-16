@@ -1,5 +1,5 @@
 # Guidline of how to user this system
-###to use this system you must have created database called **"mposes"** and import tables that are found in folder located here **(Millionposes_Project_Prototype/database/mposes/)** path.
+###to use this system you must have created database called **"mposes"** and import tables that are found in folder located here (Millionposes_Project_Prototype/database/mposes/) path.
 xamp server is recommende.
 ## running steps
 > User page
