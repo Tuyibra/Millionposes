@@ -4,7 +4,7 @@ xamp server is recommende.
 ## running steps
 > User page
  * this system  starts from  **"Millionposes_Project_Prototype/Admin/user/newhome.php"** path.
- * to login as Admin use: username **"admin"**  password **"root"**.
+ * to login as Admin use: username **"admin@pos.com"**  password **"root"**.
  * to login as a normal user, first create an account and then login throuh that created one.
 > Admin
  * you can access admin's options through signing up using above provided username and password.
